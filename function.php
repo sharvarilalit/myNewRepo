@@ -1,9 +1,9 @@
 <?
 
-add(x,y){
+function sum(x,y){
 return x+y;
 }
-echo add(2,2);
+echo sum(2,2);
 
 
 ?>
